@@ -1,0 +1,35 @@
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\bin\Debug\net6.0-windows\Operating Systems Project.exe
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\bin\Debug\net6.0-windows\Operating Systems Project.deps.json
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\bin\Debug\net6.0-windows\Operating Systems Project.runtimeconfig.json
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\bin\Debug\net6.0-windows\Operating Systems Project.dll
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\bin\Debug\net6.0-windows\Operating Systems Project.pdb
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.csproj.AssemblyReference.cache
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.csproj.GenerateResource.cache
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.AssemblyInfoInputs.cache
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.AssemblyInfo.cs
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.csproj.CoreCompileInputs.cache
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.dll
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\refint\Operating Systems Project.dll
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.pdb
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.genruntimeconfig.cache
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\ref\Operating Systems Project.dll
+C:\Users\iaboo\source\repos\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating_Systems_Project.Form1.resources
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\bin\Debug\net6.0-windows\Operating Systems Project.exe
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\bin\Debug\net6.0-windows\Operating Systems Project.deps.json
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\bin\Debug\net6.0-windows\Operating Systems Project.runtimeconfig.json
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\bin\Debug\net6.0-windows\Operating Systems Project.dll
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\bin\Debug\net6.0-windows\Operating Systems Project.pdb
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.csproj.AssemblyReference.cache
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating_Systems_Project.Form1.resources
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.csproj.GenerateResource.cache
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.AssemblyInfoInputs.cache
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.AssemblyInfo.cs
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.csproj.CoreCompileInputs.cache
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.dll
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\refint\Operating Systems Project.dll
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.pdb
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating Systems Project.genruntimeconfig.cache
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\ref\Operating Systems Project.dll
+F:\Desktop\Pro\Operating Systems Project\Operating Systems Project\obj\Debug\net6.0-windows\Operating_Systems_Project.Properties.Resources.resources
